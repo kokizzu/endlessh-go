@@ -6,13 +6,13 @@
 
 An example how to setup endlessh-go, Prometheus, and Grafana using [docker compose](https://docs.docker.com/compose/).
 
-## [kustomize-simple](./kustomize-simple)
-
-An example how to setup endlessh-go using [kustomize](https://kustomize.io/).
-
 ## [docker-maxmind](./docker-maxmind)
 
 An example how to setup endlessh-go with the Maxmind GeoIP Database.
+
+## [kustomize-simple](./kustomize-simple)
+
+An example how to setup endlessh-go using [kustomize](https://kustomize.io/).
 
 ## FAQ
 
