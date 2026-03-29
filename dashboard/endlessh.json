@@ -1070,7 +1070,7 @@
                 "field": "Connections",
                 "fixed": "dark-green"
               },
-              "fillOpacity": 0.4,
+              "fillOpacity": 0.8,
               "shape": "circle",
               "showLegend": false,
               "size": {
